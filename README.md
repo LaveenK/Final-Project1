@@ -1,7 +1,7 @@
 
 # 🍔 Foodeli – Food Order & Delivery App
 
-**Foodeli** is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to explore restaurants, browse food menus, place online orders, and track them in real-time. This project replicates core features of popular food delivery apps like Swiggy and Zomato on a simplified scale, ideal for educational and demonstration purposes.
+**Foodeli** is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It is a food ordering and delivery webapp that allows users to explore restaurants, browse food menus, place online orders, and track them in real-time. This project replicates core features of popular food delivery apps like Swiggy and Zomato on a simplified scale.
 
 ---
 
