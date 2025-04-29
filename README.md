@@ -5,12 +5,7 @@
 
 ---
 
-## 🚀 Live Demo
 
-> 🔗 [https://foodeli-client.vercel.app](#)  
-> 🔗 [https://foodeli-api.onrender.com](#)
-
----
 
 ## 📸 Screenshots
 
